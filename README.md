@@ -1,3 +1,3 @@
 # Numpy CNN
-cnn trained in soybeans 
+CNN trained in soybeans, 
 week 7 homework
